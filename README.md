@@ -1,30 +1,53 @@
-# 📊 Sales Performance Dashboard
+# Sales Performance Dashboard
 
-## 📌 Project Overview
-This project is an interactive Sales Performance Dashboard developed using Microsoft Excel and Power BI. It provides insights into sales, profit, and quantity through dynamic visualizations and filters.
+## Overview
 
-## 🛠 Tools & Technologies
+This project demonstrates an interactive Sales Performance Dashboard built using Microsoft Excel and Power BI. The dashboard is designed to analyze sales data and present key business insights through simple, interactive visualizations. Users can filter data and quickly understand overall sales performance.
+
+## Objectives
+
+- Analyze sales performance using business data
+- Monitor sales, profit, and quantity
+- Create an interactive dashboard for better decision-making
+- Practice Excel and Power BI dashboard development
+
+## Tools Used
+
 - Microsoft Excel
 - Microsoft Power BI
 
-## 📈 Key Performance Indicators (KPIs)
+## Dashboard Metrics
+
 - Total Sales
 - Total Profit
 - Total Quantity
 
-## ✨ Dashboard Features
-- Interactive Slicers
-- Sales by Category
-- Profit Analysis
-- Quantity Analysis
-- Clean and User-Friendly Dashboard
+## Dashboard Features
 
-## 📂 Files Included
-- Sales Dashboard.pbix
-- Sales Data.xlsx
-- Dashboard Screenshot.png
+- Interactive slicers for data filtering
+- Sales analysis by category
+- Profit analysis
+- Quantity analysis
+- Simple and easy-to-use dashboard layout
 
-## 👨‍💻 Author
+## Project Files
+
+- `Sales Dashboard.pbix`
+- `Sales Data.xlsx`
+- `Dashboard Screenshot.png`
+
+## Learning Outcome
+
+Through this project, I practiced:
+- Data cleaning in Excel
+- Building interactive dashboards
+- Creating KPI cards
+- Using slicers and charts
+- Data visualization in Power BI
+
+## Author
+
 **Abdul Rafay**
 
-BS Information Technology | Aspiring Data Analyst
+BS Information Technology  
+Learning Data Analytics & Power BI
